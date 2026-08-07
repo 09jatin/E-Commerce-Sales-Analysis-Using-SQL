@@ -19,7 +19,19 @@ This project demonstrates an end-to-end SQL-based analysis of an e-commerce sale
 The objective is to transform raw transactional data into meaningful business insights by applying data cleaning, feature engineering, KPI analysis, customer segmentation, product analysis, and advanced SQL techniques.
 
 ---
+## 🚀 Features
 
+- End-to-End SQL Analysis
+- Data Cleaning & Validation
+- Feature Engineering
+- KPI Analysis
+- Customer Segmentation (RFM)
+- Time Series Analysis
+- Window Functions
+- Pareto Analysis
+- Business Insights
+- Business Recommendations
+  
 ## 🎯 Business Objectives
 
 - Analyze overall sales performance
@@ -148,21 +160,40 @@ The dataset contains e-commerce transaction records including:
 ```
 E-Commerce-Sales-Analysis-SQL
 │
-├── dataset.csv
-├── data_cleaning.sql
-├── analysis.sql
+├── Raw_E_Commerce_Sales_Data.csv
+├── E_Commerce_Business_Analysis.sql
 ├── README.md
 ```
 
 ---
+
+## 💼 Skills Demonstrated
+
+- SQL
+- PostgreSQL
+- Data Cleaning
+- Data Validation
+- Feature Engineering
+- Data Analysis
+- Window Functions
+- Common Table Expressions (CTEs)
+- Time Series Analysis
+- Customer Analytics
+- Business Intelligence
 
 # 👨‍💻 Author
 
 **Jatin Patidar**
 
 - LinkedIn: https://www.linkedin.com/in/jatinpatidar09/
-- GitHub: *(https://github.com/09jatin)*
+- GitHub: https://github.com/09jatin
+- Email jatinpatidar606@gmail.com
 
 ---
 
-## ⭐ If you found this project helpful, consider giving it a Star!
+## ⭐ Support
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+Thank you for visiting this repository!
+
