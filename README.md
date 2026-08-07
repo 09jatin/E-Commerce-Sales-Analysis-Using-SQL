@@ -140,21 +140,6 @@ The dataset contains e-commerce transaction records including:
 - Reward high-value customers.
 - Investigate the post-2024 sales decline.
 
----
-
-# 📷 Project Preview
-
-> Add screenshots of important SQL query outputs here.
-
-Example:
-
-```
-images/
-│── dashboard.png
-│── customer_analysis.png
-│── product_analysis.png
-│── quarterly_sales.png
-```
 
 ---
 
@@ -167,7 +152,6 @@ E-Commerce-Sales-Analysis-SQL
 ├── data_cleaning.sql
 ├── analysis.sql
 ├── README.md
-└── images/
 ```
 
 ---
@@ -176,8 +160,8 @@ E-Commerce-Sales-Analysis-SQL
 
 **Jatin Patidar**
 
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub URL)*
+- LinkedIn: https://www.linkedin.com/in/jatinpatidar09/
+- GitHub: *(https://github.com/09jatin)*
 
 ---
 
