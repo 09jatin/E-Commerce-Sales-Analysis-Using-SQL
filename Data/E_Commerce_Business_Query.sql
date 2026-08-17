@@ -134,7 +134,7 @@ nullif(sum(sales),0),2) as profit_margin
 from orders_enriched;
 
 -- ========================================
--- CATEGORY & REGION ANALYSIS
+-- CATEGORY ANALYSIS
 -- ========================================
 
 -- Sales & Profit by Category
