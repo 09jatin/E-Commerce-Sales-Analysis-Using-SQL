@@ -126,32 +126,49 @@ The dataset contains e-commerce transaction records including:
 - Profitability Analysis
 - Statistical Analysis
 
----
+# /*
+FINAL BUSINESS CONCLUSION:
 
-# 💡 Key Business Insights
+The analysis identified five major business opportunities:
 
-- Goa generated the highest sales among all cities.
-- Electronics recorded the highest average selling price.
-- Home Decor captured the highest market share (10.72%).
-- North region generated the highest sales.
-- Q2 generated the highest revenue.
-- A 5% discount produced the highest sales.
-- Net Banking was the preferred payment method.
-- Sales increased by 324% after 2023 before declining by 26.99% after 2024.
+1. REVENUE RECOVERY:
+   Revenue declined by ₹5.58M, with order volume
+   decreasing by 12.04% and AOV decreasing by 6.50%.
 
----
+2. CATEGORY PERFORMANCE:
+   Home Decor revenue declined by ₹11.13M (-35.63%).
+   Lamp accounted for 46.95% of the identified
+   overall revenue decline.
 
-# 📌 Business Recommendations
+3. PROFITABILITY:
+   Vase recorded a profit decline of ₹192,494.73.
+   Several products operated at approximately
+   5% profit margins.
 
-- Increase inventory before Q2.
-- Expand the Home Decor category.
-- Focus marketing on the North region.
-- Maintain a 5% discount strategy.
-- Promote high-margin products.
-- Improve profitability of low-margin products.
-- Reward high-value customers.
-- Investigate the post-2024 sales decline.
+4. DISCOUNT OPTIMIZATION:
+   The 20% discount tier showed a 14.74% margin
+   compared with 15.22% at the 5% tier.
 
+5. CUSTOMER RETENTION:
+   4,690 customers made only one purchase, while
+   1,444 high-value customers were classified as
+   inactive under the 180-day definition.
+
+OVERALL RECOMMENDATION:
+
+The business should focus on profitable growth rather
+than revenue expansion alone.
+
+Priority actions:
+- Recover declining sales in Home Decor and Lamp.
+- Investigate product-level profitability.
+- Optimize discounts using incremental profit.
+- Improve customer repeat-purchase rates.
+- Reactivate valuable inactive customers.
+
+The objective is to increase revenue while protecting
+profit margins and strengthening customer retention.
+*/
 
 ---
 
