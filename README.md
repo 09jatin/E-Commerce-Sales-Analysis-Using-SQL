@@ -12,7 +12,7 @@
 
 ## Dashboard Overview
 
-Data/E-Commerce-Sales-Dashbaord.png
+("Data/E-Commerce-Sales-Dashbaord.png")
 ---
 
 ## 📌 Project Overview
