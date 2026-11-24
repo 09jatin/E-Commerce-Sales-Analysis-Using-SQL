@@ -2,7 +2,7 @@
 
 # 📊 Super-Store-Sales-Dashboard-SQL-Excel-Power-BI
 <p align="center">
-  <img src="images./Dashboard_Preview.png" width="900">
+  <img src="Data/Images/Dashboard-Preview.png" width="900">
 </p>
 
 <p align="center">
