@@ -10,6 +10,9 @@
 
 </p>
 
+## Dashboard Overview
+
+Data/E-Commerce-Sales-Dashbaord.png
 ---
 
 ## 📌 Project Overview
