@@ -1,5 +1,10 @@
 # 📊 E-Commerce Sales Analysis Using SQL
 
+# 📊 Super-Store-Sales-Dashboard-SQL-Excel-Power-BI
+<p align="center">
+  <img src="images./Dashboard_Preview.png" width="900">
+</p>
+
 <p align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -10,10 +15,7 @@
 
 </p>
 
-## Dashboard Overview
 
-Data/Images/Dashboard-Preview.png
----
 
 ## 📌 Project Overview
 
