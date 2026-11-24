@@ -1,6 +1,5 @@
-# 📊 E-Commerce Sales Analysis Using SQL
 
-# 📊 Super-Store-Sales-Dashboard-SQL-Excel-Power-BI
+# 📊 Super-Store-Sales-Dashboard-SQL-POWER-BI
 <p align="center">
   <img src="Data/Images/Dashboard-Preview.png" width="900">
 </p>
